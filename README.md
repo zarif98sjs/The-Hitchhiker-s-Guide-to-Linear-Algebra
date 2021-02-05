@@ -4,15 +4,15 @@
 
 &nbsp;
 
-2 things in mathematics always had me in awe . One was _complex number_ and other one was _linear algebra_ . From state of the art _Machine Learning_ to the core of _Quantum Computing_ , Linear Algebra is practically everywhere . In my level 2 , I had the chance of taking Linear Algebra Course which was purely mathematical and as a CS student that was a bit of a bummer . To get the CS flavour and gain better intuition , I had to dive deep into other resources (details in the Resource section) . This personal note + blog hybrid contains some of the core stuffs that I had learnt and gained better intuition through this time . I have also implemented some of the basic LA algorithm stuffs in python for reference code along with the theories .
+2 things in mathematics always had me in awe . One was _complex number_ ( thanks to [Welch Labs](https://youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) and [this](https://press.princeton.edu/books/paperback/9780691169248/an-imaginary-tale) awesome book ) and other one was _linear algebra_ ( thanks to the one and only great [Grant Sanderson](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ) . From state of the art _Machine Learning_ to the core of _Quantum Computing_ , Linear Algebra is practically everywhere . In my level 2 in undergrad , I had the chance of taking Linear Algebra Course which was a course offered from the math department . To get the CS flavour and gain better intuition , I had to dive deep into other resources (details in the Resource section) . This is some kind of hybrid of personal note + blog , contains some of the core stuffs that I had learnt and gained better intuition through this time . I have also implemented some of the basic LA algorithm stuffs in python for reference code along with the theories .
 
-Hopefully this serves as a good starting point / refresher for anyone who is starting / practising ML / QC .
+Hopefully this serves as a good starting point / refresher for anyone who is starting / practising ML / QC or anyone who is interested in general .
 
 &nbsp;
 
 # **Contribution & Future Plan**
 
-This is no where near completion . In Future , I have plans to add more applications like in ML and QC . If you are interested to contribute with anything (writeup/code/simulation) , feel free to send pull request .
+This is yet to be completed . In Future , I have plans to add more applications like in ML and QC . If you are interested to contribute with anything (writeup/code/simulation) , feel free to send pull request / let me know .
 
 &nbsp;
 
@@ -80,3 +80,8 @@ This is no where near completion . In Future , I have plans to add more applicat
 &nbsp;
 
 # **Resources**
+
+- [Essence of Linear Algebra : 3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [MIT 18.06 Linear Algebra, Spring 2005 : Gilbert Strang](https://youtube.com/playlist?list=PLE7DDD91010BC51F8)
+- [Linear Algebra and Its Applications : David C Lay, Judi J. McDonald, and Steven R Lay](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
+- [Introduction to Linear Algebra : Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
