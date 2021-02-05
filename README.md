@@ -4,7 +4,9 @@
 
 &nbsp;
 
-2 things in mathematics always had me in awe . One was complex number and other is linear algebra . Linear Algebra is practically everywhere now . From state of the art machine learning to the core of quantum computing . In my academics , I had the chance of taking Linear Algebra Course which was purely mathematical and as a CS student that was a bit of a bummer . So , I had to dig deep to understand the core LA stuffs which also had the practical aspects of it . This personal note + blog hybrid containing the basics with some CS flavour hopefully helps people like me .
+2 things in mathematics always had me in awe . One was _complex number_ and other one was _linear algebra_ . From state of the art _Machine Learning_ to the core of _Quantum Computing_ , Linear Algebra is practically everywhere . In my level 2 , I had the chance of taking Linear Algebra Course which was purely mathematical and as a CS student that was a bit of a bummer . To get the CS flavour and gain better intuition , I had to dive deep into other resources (details in the Resource section) . This personal note + blog hybrid contains some of the core stuffs that I had learnt and gained better intuition through this time . I have also implemented some of the basic LA algorithm stuffs in python for reference code along with the theories .
+
+Hopefully this serves as a good starting point / refresher for anyone who is starting / practising ML / QC .
 
 &nbsp;
 
@@ -67,8 +69,14 @@ This is no where near completion . In Future , I have plans to add more applicat
 
 ## ➕ [Vector Spaces](https://www.notion.so/Vector-Spaces-6cd1f0443fb34293a35bd14c8ea76d07)
 
+&nbsp;
+
+---
+
 ## ➕ [Change of Basis](https://www.notion.so/Vector-Spaces-6cd1f0443fb34293a35bd14c8ea76d07)
 
 ## ➕ [Eigenvalue & Eigenvectors](https://www.notion.so/Eigenvalue-Eigenvectors-d79751c45596442d9f6f9e572d8b2ec8)
 
 &nbsp;
+
+# **Resources**
