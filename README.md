@@ -8,6 +8,9 @@
 
 Hopefully this serves as a good starting point / refresher for anyone who is starting / practising ML / QC or anyone who is interested in general .
 
+- ## Theory : [Link](https://tinyurl.com/zarif98sjsLA)
+- ## Code : [Link](https://github.com/zarif98sjs/The-Hitchhiker-s-Guide-to-Linear-Algebra/tree/main/Code)
+
 &nbsp;
 
 # **Contribution & Future Plan**
@@ -18,6 +21,7 @@ This is yet to be completed . In Future , I have plans to add more applications 
 
 # **Table of Content**
 
+&nbsp;
 
 ## ➕ [Introduction](https://www.notion.so/Introduction-a4092131b794423aa27038cf9fb7d120)
 
@@ -85,3 +89,4 @@ This is yet to be completed . In Future , I have plans to add more applications 
 - [MIT 18.06 Linear Algebra, Spring 2005 : Gilbert Strang](https://youtube.com/playlist?list=PLE7DDD91010BC51F8)
 - [Linear Algebra and Its Applications : David C Lay, Judi J. McDonald, and Steven R Lay](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [Introduction to Linear Algebra : Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
+- [Coding the Matrix: Linear Algebra Through Applications to Computer Science](https://codingthematrix.com/)
