@@ -2,11 +2,7 @@
  
 ![](home.PNG)
 
-<p align="center">
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzarif98sjs%2FThe-Hitchhiker-s-Guide-to-Linear-Algebra&count_bg=%23ACA722&title_bg=%2300070C&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a>
-
-</p>
 
 &nbsp;
 
@@ -96,3 +92,11 @@ This is yet to be completed . In Future , I have plans to add more applications 
 - [Linear Algebra and Its Applications : David C Lay, Judi J. McDonald, and Steven R Lay](https://math.berkeley.edu/~yonah/files/Linear%20Algebra.pdf)
 - [Introduction to Linear Algebra : Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 - [Coding the Matrix: Linear Algebra Through Applications to Computer Science](https://codingthematrix.com/)
+
+&nbsp;
+&nbsp;
+
+
+<!-- <p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzarif98sjs%2FThe-Hitchhiker-s-Guide-to-Linear-Algebra&count_bg=%23ACA722&title_bg=%2300070C&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a>
+</p> -->
