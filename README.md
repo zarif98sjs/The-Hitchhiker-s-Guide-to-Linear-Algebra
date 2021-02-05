@@ -1,4 +1,4 @@
-# The Hitchhiker's Guide to Linear Algebra
+# [The Hitchhiker's Guide to Linear Algebra](https://www.notion.so/The-Hitchhiker-s-Guide-to-Linear-Algebra-25d07ed3ae3344468fa8faaae9c82fc7)
  
 ![](home.PNG)
 
@@ -16,7 +16,7 @@
 
 ## ➕ [Vectors](https://www.notion.so/Vectors-e79564b225a04691a75fb04606bbaff4)
 
-## ➕ $[Ax = B$ and $Ax = 0$](https://www.notion.so/Ax-B-and-Ax-0-138a8c862d5e415a981a9e2559e7bc01)
+## ➕ [Ax = B and Ax = 0](https://www.notion.so/Ax-B-and-Ax-0-138a8c862d5e415a981a9e2559e7bc01)
 
 ## ➕ [Linear Independence](https://www.notion.so/Linear-Independence-645683e79e454ecf8396b3d5a5432712)
 
