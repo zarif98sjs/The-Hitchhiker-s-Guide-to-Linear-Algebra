@@ -1,16 +1,29 @@
-# [The Hitchhiker's Guide to Linear Algebra](https://www.notion.so/The-Hitchhiker-s-Guide-to-Linear-Algebra-25d07ed3ae3344468fa8faaae9c82fc7)
+# [**The Hitchhiker's Guide to Linear Algebra**](https://www.notion.so/The-Hitchhiker-s-Guide-to-Linear-Algebra-25d07ed3ae3344468fa8faaae9c82fc7)
  
 ![](home.PNG)
 
+&nbsp;
+
+2 things in mathematics always had me in awe . One was complex number and other is linear algebra . Linear Algebra is practically everywhere now . From state of the art machine learning to the core of quantum computing . In my academics , I had the chance of taking Linear Algebra Course which was purely mathematical and as a CS student that was a bit of a bummer . So , I had to dig deep to understand the core LA stuffs which also had the practical aspects of it . This personal note + blog hybrid containing the basics with some CS flavour hopefully helps people like me .
 
 &nbsp;
+
+# **Contribution & Future Plan**
+
+This is no where near completion . In Future , I have plans to add more applications like in ML and QC . If you are interested to contribute with anything (writeup/code/simulation) , feel free to send pull request .
+
+&nbsp;
+
+# **Table of Content**
+
+
 ## ➕ [Introduction](https://www.notion.so/Introduction-a4092131b794423aa27038cf9fb7d120)
 
 ## ➕ [Row Reduction & Echelon Forms](https://www.notion.so/Row-Reduction-Echelon-Forms-8a331eca1c4f476e9af3237d84162306)
 
 ## 🧐 [Coding LA : Part 1 (Echelon & RREF)](https://www.notion.so/Coding-LA-Part-1-Echelon-RREF-bb4ed11a9cee45d0afdf854e5ec6b78f)
 
- &nbsp;
+&nbsp;
 
 ---
 
