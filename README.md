@@ -2,13 +2,19 @@
  
 ![](home.PNG)
 
+<p align="center">
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzarif98sjs%2FThe-Hitchhiker-s-Guide-to-Linear-Algebra&count_bg=%23ACA722&title_bg=%2300070C&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false"/></a>
+
+</p>
+
 &nbsp;
 
 2 things in mathematics always had me in awe . One was _complex number_ ( thanks to [Welch Labs](https://youtube.com/playlist?list=PLiaHhY2iBX9g6KIvZ_703G3KJXapKkNaF) and [this](https://press.princeton.edu/books/paperback/9780691169248/an-imaginary-tale) awesome book ) and other one was _linear algebra_ ( thanks to the one and only great [Grant Sanderson](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) ) . From state of the art _Machine Learning_ to the core of _Quantum Computing_ , Linear Algebra is practically everywhere . In my level 2 in undergrad , I had the chance of taking Linear Algebra Course which was a course offered from the math department . To get the CS flavour and gain better intuition , I had to dive deep into other resources (details in the Resource section) . This is some kind of hybrid of personal note + blog , contains some of the core stuffs that I had learnt and gained better intuition through this time . I have also implemented some of the basic LA algorithm stuffs in python for reference code along with the theories .
 
 Hopefully this serves as a good starting point / refresher for anyone who is starting / practising ML / QC or anyone who is interested in general .
 
-- ## Theory : [Link](https://tinyurl.com/zarif98sjsLA)
+- ## Website : [Link](https://tinyurl.com/zarif98sjsLA)
 - ## Code : [Link](https://github.com/zarif98sjs/The-Hitchhiker-s-Guide-to-Linear-Algebra/tree/main/Code)
 
 &nbsp;
